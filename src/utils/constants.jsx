@@ -6,4 +6,4 @@ export const options = {
     }
   };
 
-  
+  export const LoginAvatar = 'https://pbs.twimg.com/media/GB2vydcX0AAgt5f?format=png&name=360x360'
